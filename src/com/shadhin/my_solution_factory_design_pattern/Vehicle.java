@@ -15,15 +15,15 @@ two sub-classes (Car.java and Plane.java).
  */
 public class Vehicle {
 
-    int set_num_of_passengers() {
+    public int set_num_of_passengers() {
         return 100;
     }
 
-    boolean has_gas() {
+   public boolean has_gas() {
         return true;
     }
 
-    int set_num_of_wheels() {
+    public  int set_num_of_wheels() {
         return 4;
     }
 }
