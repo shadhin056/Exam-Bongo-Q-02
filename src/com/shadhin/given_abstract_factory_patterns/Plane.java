@@ -1,4 +1,4 @@
-package com.shadhin.given_patterns;
+package com.shadhin.given_abstract_factory_patterns;
 
 public class Plane implements Vehicle{
 

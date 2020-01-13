@@ -1,5 +1,5 @@
-package com.shadhin.my_solution;
-
+package com.shadhin.my_solution_factory_design_pattern;
+//Sub Class
 public class Car extends Vehicle{
 
     @Override
